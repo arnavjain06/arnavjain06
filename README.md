@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  Computer Science @ Georgia Tech
+Computer Science @ Georgia Tech
 
 
 ## 🌐 Socials:
